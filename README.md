@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avizii Wu</h1>
-<h3 align="center">A Data Engineer And Open Source Lover.</h3>
+<h3 align="center">Data Engineer | All in Data&AI | Computer Science | OpenSource Lover</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=avizii&label=Profile%20views&color=0e75b6&style=flat" alt="avizii" /> </p>
 
