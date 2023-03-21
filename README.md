@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Avizii Wu</h1>
 <h3 align="center">Data Engineer | All in Data&AI | Computer Science | OpenSource Lover</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=avizii&label=Profile%20views&color=0e75b6&style=flat" alt="avizii" /> </p>
+<div id="badges" align="center">
+  <a href="/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCYFMUGFn6cK6aCM7VyYXeoA">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/AviziiWu">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a> 
+    <img src="https://komarev.com/ghpvc/?username=avizii&label=Profile%20views&color=0e75b6&style=flat" alt="avizii" /> 
+  </a>
+  
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avizii" alt="avizii" /></a> </p>
 
