@@ -2,8 +2,8 @@
 <h3 align="center">Data Engineer | All in Data&AI | Computer Science | OpenSource Lover</h3>
 
 <div id="badges" align="center">
-  <a href="/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://medium.com/@wuavizii">
+    <img src="https://img.shields.io/badge/Medium-blue?logo=medium&logoColor=white&style=for-the-badge" alt="Medium Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCYFMUGFn6cK6aCM7VyYXeoA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
