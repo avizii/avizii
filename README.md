@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avizii Wu</h1>
-<h3 align="center">EECS Engineer</h3>
+<h3 align="center">EECS Engineer | EE Teacher</h3>
 
 <div id="badges" align="center">
   <a href="https://medium.com/@wuavizii">
@@ -22,8 +22,6 @@
 ### :man_technologist: About Me :
 
 - :telescope: I'm working as a eletrical teacher in professional senior high school and specializing in EECS.
-- :seedling: 
-- :zap: 
 
 --- 
 
