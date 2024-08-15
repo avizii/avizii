@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I'm working as a data engineer and specializing in distributed systems and query engines.
+- :telescope: I'm working as a eletrical teacher in professional senior high school and specializing in EECS.
 - :seedling: 
 - :zap: 
 
