@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avizii Wu</h1>
-<h3 align="center">Data Engineer | All in Data&AI | Computer Science | OpenSource Lover</h3>
+<h3 align="center">EECS Engineer</h3>
 
 <div id="badges" align="center">
   <a href="https://medium.com/@wuavizii">
@@ -19,7 +19,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 - :telescope: I'm working as a data engineer and specializing in distributed systems and query engines.
 - :seedling: 
@@ -31,31 +31,5 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-
-
-<p>
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avizii&show_icons=true&locale=en&layout=compact" alt="avizii" /> -->
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=avizii&" alt="avizii" />
-</p>
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avizii&show_icons=true&locale=en" alt="avizii" />
-</p>
-
-<!-- <p> -->
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avizii&" alt="avizii" /> -->
-<!-- </p> -->
-
----
-
-### :writing_hand: Blog Posts :
 
