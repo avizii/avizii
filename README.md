@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avizii Wu</h1>
-<h3 align="center">EECS Engineer | EE Teacher</h3>
+<h3 align="center">EECS Engineer & Teacher</h3>
 
 <div id="badges" align="center">
   <a href="https://medium.com/@wuavizii">
@@ -32,6 +32,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg" title="rasp" alt="rasp" width="40" height="40"/>&nbsp;
 </div>
 
